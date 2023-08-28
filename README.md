@@ -108,10 +108,8 @@ public class MainActivity extends AppCompatActivity {
 ![WhatsApp Image 2023-08-28 at 23 08 33](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/a13c5e0a-39e0-4f7f-8f42-79e2c9bfc08f)
 ![WhatsApp Image 2023-08-28 at 11 42 02](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/b35ab861-90fa-4b95-9fd1-ead260697a24)
 ![WhatsApp Image 2023-08-28 at 23 07 04](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/81b1a6fe-2bba-45e0-be7e-e29467d181bc)
-
-
-
-
+![WhatsApp Image 2023-08-28 at 23 08 00](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/979fd650-ce2c-4105-8ea4-5eccf28e9b32)
+![WhatsApp Image 2023-08-28 at 23 39 44](https://github.com/HibaRajarajeswari/Life-Cycle-Model/assets/129970809/a685e98c-7912-4e15-a954-6b1f48faf3f7)
 
 
 ## RESULT:
